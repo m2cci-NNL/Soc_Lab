@@ -1,7 +1,7 @@
 # Soc_Lab
 reproduire les fondations de Splunk ES avec Splunk Enterprise et démontrer une maîtrise complète du SOC cycle.
 
-1. Objectif général
+# Objectif général
 
 Construire un SOC Lab complet sous Splunk Enterprise capable de :
 
@@ -13,7 +13,7 @@ Utiliser les briques Splunk ES manuellement : macros, data models, correlation s
 
 Livrer le tout en sprints Agile (documentation + tableaux de bord + notables).
 
-2. Architecture minimale
+# Architecture minimale
 
 1x Search Head
 
@@ -33,7 +33,7 @@ Cloud : AWS CloudTrail ou Azure Activity logs
 
 Sysmon : T1059, T1071 simulation
 
-3. Sprint plan (Agile)
+# Sprint plan (Agile)
 
 # Sprint 1 : Base Splunk SOC
 
